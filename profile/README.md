@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hmt-network.de/assets/img/logo/Applications/Builder.png" alt="GrüneEule Logo" width="1000"/>
+  <img src="https://hmt-network.de/assets/img/logo/Applications/Moderator.png" alt="GrüneEule Logo" width="1000"/>
 </p>
 
 # **HMT Network**
